@@ -14,6 +14,15 @@ The original commit history is unavailable because this project was extracted fr
 - Basic application structure with separation into game loop and rendering components
 - Use of Java Future for tracking game logic (to manage the state of falling cats in the application. Each falling cat can be associated with a Future, which provides information about its status — for example, whether it has landed or is still falling. Also, every cat (thread) can be cancelled by corresponding Future)
 
+Gameplay:
+
+![gameplay](https://github.com/user-attachments/assets/9d4bb4a5-d498-4a76-85eb-3de560cbf975)
+
+Multithreaded task interactions:
+
+![taksList](https://github.com/user-attachments/assets/e696b900-8a0f-44fa-a7ab-ec384f91db6c)
+
+
 ## Requirements
 
 - Java 8 or newer

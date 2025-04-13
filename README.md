@@ -2,7 +2,8 @@
 
 **TaskList** is a small Java graphical application created for educational purposes - to show a way of using Future and **practice multithreading**. It displays a static background and a simple frame-based animation (e.g., an animated cat using multiple images). The project is built with standard Java libraries (AWT/Swing), using a simple game loop structure.
 
-# Importatnt
+## Important
+
 The original commit history is unavailable because this project was extracted from a larger academic repository that included multiple unrelated assignments.
 
 ## Features
